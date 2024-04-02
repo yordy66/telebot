@@ -93,7 +93,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 # Internationalization
 LANGUAGE_CODE = 'en-us'
-TIME_ZONE = 'Asia/Almaty'
+TIME_ZONE = 'America/Caracas'
 USE_I18N = True
 USE_L10N = True
 USE_TZ = True
